@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "AkvelonTest": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
