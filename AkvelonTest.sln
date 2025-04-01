@@ -5,6 +5,8 @@ VisualStudioVersion = 17.12.35728.132 d17.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AkvelonTest", "AkvelonTest\AkvelonTest.csproj", "{CE7D7EED-A981-498E-9638-19852CA0440F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AkvelonTest.Tests", "AkvelonTest.Tests\AkvelonTest.Tests.csproj", "{960A7DA9-FD2E-447A-A6D9-673A8BBB5F27}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{CE7D7EED-A981-498E-9638-19852CA0440F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CE7D7EED-A981-498E-9638-19852CA0440F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CE7D7EED-A981-498E-9638-19852CA0440F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{960A7DA9-FD2E-447A-A6D9-673A8BBB5F27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{960A7DA9-FD2E-447A-A6D9-673A8BBB5F27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{960A7DA9-FD2E-447A-A6D9-673A8BBB5F27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{960A7DA9-FD2E-447A-A6D9-673A8BBB5F27}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
